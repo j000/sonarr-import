@@ -1,3 +1,6 @@
-sonarr.db
+# python
+__pycache__
+
 # config
 /config.json
+/sonarr.db

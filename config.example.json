@@ -1,0 +1,6 @@
+{
+    "sonarr_url": "http://localhost:8989",
+    "api_key": "your_api_key_here",
+    "root_folder": "/path/to/media",
+    "quality_profile_id": 1
+}

@@ -1,1 +1,3 @@
 sonarr.db
+# config
+/config.json

@@ -1,6 +1,10 @@
 # python
 __pycache__
 
+#sqlite
+*-shm
+*-wal
+
 # config
 /config.json
 /sonarr.db
